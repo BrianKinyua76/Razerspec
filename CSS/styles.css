@@ -1,0 +1,40 @@
+
+  h1 {
+    color: white;
+    text-align: center;
+    font-family: inherit;
+}
+
+  h2 {
+    font-style: bold,italic;
+    text-align: center;
+    color: white;
+  }
+
+  p {
+    color: limegreen;
+    text-align: centre;
+  }
+
+  li {
+     color: limegreen;
+     font-family:fantasy;
+     text-align: center;
+  }
+
+  body {
+    background-color: black;
+    text-align: center;
+}
+
+  .intro {
+    font-style: oblique;
+  }
+
+  img {
+    display: none
+  }
+
+  .gaminghelps-showing {
+    display: none;
+  }
